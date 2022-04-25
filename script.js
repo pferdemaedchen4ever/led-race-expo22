@@ -1,7 +1,7 @@
 function sortieren(a,b){
     return a - b;
 }
-let playerentry ={
+/*let playerentry ={
     number: 0,
     track: "Test",
     rundenzeit: 99999,
@@ -155,12 +155,12 @@ let player1 = {
     number: 0,
     track: "Platine",
     rundenzeit: 99999,
-    }
+    }*/
 
-  /*  let playerentry ={
-        number: 345,
-        track: "Test",
-        rundenzeit: 0.991,
+    let playerentry ={
+        number: 213,
+        track: "Klappt",
+        rundenzeit: 0.001,
     }
     let player1 = {
         number: 3,
@@ -311,7 +311,7 @@ let player1 = {
         number: 337,
         track: "Platine",
         rundenzeit: 64.76,
-        }*/
+        }
     var bestzeit = [player1.rundenzeit, player2.rundenzeit, player3.rundenzeit, player4.rundenzeit, player5.rundenzeit, player6.rundenzeit, player7.rundenzeit, player8.rundenzeit, player9.rundenzeit, player10.rundenzeit, player11.rundenzeit, player12.rundenzeit, player13.rundenzeit, player14.rundenzeit, player15.rundenzeit, player16.rundenzeit, player17.rundenzeit, player18.rundenzeit, player19.rundenzeit, player20.rundenzeit, player21.rundenzeit, player22.rundenzeit, player23.rundenzeit, player24.rundenzeit, player25.rundenzeit, player26.rundenzeit, player27.rundenzeit, player28.rundenzeit, player29.rundenzeit, player30.rundenzeit, playerentry.rundenzeit];
     bestzeit.sort(sortieren);
     console.log(bestzeit);
