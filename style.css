@@ -1,0 +1,124 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #151F5C;
+}
+@import url(C:\Windows\Fonts\VWText);
+
+#top{
+    text-align:center;
+}
+#image img{
+    max-width: 35%;
+    max-height: 20%;
+    border: none;
+    margin-left: 250px;
+}
+#logo{
+    color: whitesmoke;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: bolder;
+}
+#Sub{
+    color: blue;
+    font-size: 25px;
+    font-weight:900;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#menu{
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}
+#menu a{
+    color: whitesmoke;
+    font-size: 30px;
+    padding: 10px;
+}
+#menu a:hover{
+    color: red;
+}
+
+#main{
+    max-width: 100%;
+    margin: auto;
+    padding: 10px;
+}
+#inhalt1{
+    text-align: left;
+    font-size: 20px;
+    background-color: darksalmon;
+}
+#bottom{
+    text-align: left;
+    color: darkgreen;
+    padding: 5px;
+    background-color: black;
+    font-size: medium;
+    font-display:unset;
+}
+input{
+    width: 500px;
+}
+table {
+    background: #000000;
+    border-radius: 0.25em;
+    border-collapse: collapse;
+    margin: 1em;
+    margin-top: 50px;
+  }
+  th {
+    border-bottom: 1px solid #364043;
+    color: #E2B842;
+    font-size: 0.85em;
+    font-weight: 600;
+    padding: 0.5em 1em;
+    text-align: left;
+  }
+  td {
+    color: #FFFFFF;
+    font-weight: 400;
+    padding: 0.65em 1em;
+  }
+  .disabled td {
+    color: #4F5F64;
+  }
+  tbody tr {
+    transition: background 0.25s ease;
+  }
+  tbody tr:hover {
+    background: #014055;
+  }
+#Signatur1{
+    font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 50px;
+} 
+#Signatur2{
+    font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+    font-size: 20;
+    text-align: center;   
+    margin-top: 10px;
+}
+#tr2{
+    color: #FFD700;
+}
+#image {
+    animation: logo 2s;
+  }
+  
+  @keyframes logo {
+    10% {
+      transform: scale(0.0);
+      opacity: 0;
+    } 
+    100% {
+      transform: scale(1);
+      opacity: 1;	
+    }
+  }
