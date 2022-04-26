@@ -1,5 +1,5 @@
 function sortieren(a,b){
-    return b - a;
+    return a - b;
 }
 /*let playerentry ={
     number: 0,
