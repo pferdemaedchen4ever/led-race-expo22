@@ -165,7 +165,7 @@ let player1 = {
     let player1 = {
         number: 3,
         track: "Urzeit",
-        punkte: 168,
+        punkte: 178,
         }
         let player2 = {
         number: 15,
