@@ -1,33 +1,33 @@
 function sortieren(a,b){
     return b - a;
 }
-/*let playerentry ={
-    number: 0,
+let playerentry ={
+    number: 1,
     track: "Test",
     punkte: 99999,
 }
 let player1 = {
-    number: 0,
+    number: 2,
     track: "Urzeit",
     punkte: 99999,
     }
     let player2 = {
-    number: 0,
+    number: 3,
     track: "Zukunft",
     punkte: 99999,
     }
     let player3 = {
-    number: 0,
+    number: 4,
     track: "Platine",
     punkte: 99999,
     }
     let player4 = {
-    number: 0,
+    number: 5,
     track: "Gegenwart",
     punkte: 99999,
     }
     let player5 = {
-    number: 0,
+    number: 6,
     track: "Platine",
     punkte: 99999,
     }
@@ -155,9 +155,9 @@ let player1 = {
     number: 0,
     track: "Platine",
     punkte: 99999,
-    }*/
+    }
 
-   let playerentry ={
+   /*let playerentry ={
         number: 345,
         track: "Test",
         punkte: 21,
@@ -311,7 +311,7 @@ let player1 = {
         number: 337,
         track: "Platine",
         punkte: 647,
-        }
+        }*/
     var bestzeit = [player1.punkte, player2.punkte, player3.punkte, player4.punkte, player5.punkte, player6.punkte, player7.punkte, player8.punkte, player9.punkte, player10.punkte, player11.punkte, player12.punkte, player13.punkte, player14.punkte, player15.punkte, player16.punkte, player17.punkte, player18.punkte, player19.punkte, player20.punkte, player21.punkte, player22.punkte, player23.punkte, player24.punkte, player25.punkte, player26.punkte, player27.punkte, player28.punkte, player29.punkte, player30.punkte, playerentry.punkte];
     bestzeit.sort(sortieren);
 
