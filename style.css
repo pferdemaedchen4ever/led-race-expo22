@@ -142,6 +142,20 @@ table {
     text-align: left;   
     margin-top: 10px;
 }
+#Signatur6{
+    font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+    font-size: 18;
+    text-align: left;   
+    margin-top: 15px;
+}
+#Signatur7{
+    font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+    font-size: 14;
+    text-align: left;   
+    margin-top: 10px;
+}
 #tr2{
     color: #FFD700;
 }
