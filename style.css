@@ -121,6 +121,27 @@ table {
     text-align: center;   
     margin-top: 10px;
 }
+#Signatur 3{
+    font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+    font-size: 20;
+    text-align: center;   
+    margin-top: 10px;
+}
+#Signatur 4{
+    font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+    font-size: 20;
+    text-align: center;   
+    margin-top: 10px;
+}
+#Signatur 5{
+    font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+    font-size: 20;
+    text-align: center;   
+    margin-top: 10px;
+}
 #tr2{
     color: #FFD700;
 }
