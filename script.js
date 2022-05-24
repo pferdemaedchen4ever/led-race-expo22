@@ -2,7 +2,7 @@ function sortieren(a,b){
     return b - a;
 }
 let playerentry ={
-    number: 1,
+    number: 0,
     track: "Test",
     punkte: 99999,
 }
@@ -27,7 +27,7 @@ let player1 = {
     punkte: 99999,
     }
     let player5 = {
-    number: 6,
+    number: 0,
     track: "Platine",
     punkte: 99999,
     }
