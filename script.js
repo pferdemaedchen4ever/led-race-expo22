@@ -9,7 +9,7 @@ let playerentry ={
 let player1 = {
     number: 1,
     track: "Urzeit",
-    punkte: 287,
+    punkte: 487,
     }
     let player2 = {
     number: 2,
