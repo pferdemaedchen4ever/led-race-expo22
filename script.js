@@ -9,12 +9,12 @@ let playerentry ={
 let player1 = {
     number: 1,
     track: "Urzeit",
-    punkte: 487,
+    punkte: 230,
     }
     let player2 = {
     number: 2,
     track: "Zukunft",
-    punkte: 399,
+    punkte: 400,
     }
     let player3 = {
     number: 0,
