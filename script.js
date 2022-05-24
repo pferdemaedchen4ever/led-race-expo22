@@ -7,14 +7,14 @@ let playerentry ={
     punkte: 0,
 }
 let player1 = {
-    number: 1,
+    number: 0,
     track: "Urzeit",
-    punkte: 230,
+    punkte: 0,
     }
     let player2 = {
-    number: 2,
+    number: 0,
     track: "Zukunft",
-    punkte: 400,
+    punkte: 0,
     }
     let player3 = {
     number: 0,
