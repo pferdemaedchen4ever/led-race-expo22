@@ -7,22 +7,22 @@ let playerentry ={
     punkte: 99999,
 }
 let player1 = {
-    number: 2,
+    number: 0,
     track: "Urzeit",
     punkte: 99999,
     }
     let player2 = {
-    number: 3,
+    number: 0,
     track: "Zukunft",
     punkte: 99999,
     }
     let player3 = {
-    number: 4,
+    number: 0,
     track: "Platine",
     punkte: 99999,
     }
     let player4 = {
-    number: 5,
+    number: 0,
     track: "Gegenwart",
     punkte: 99999,
     }
