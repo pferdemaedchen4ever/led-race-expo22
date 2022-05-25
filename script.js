@@ -12,9 +12,9 @@ let player1 = {
     punkte: 20,
     }
     let player2 = {
-    number: 0,
-    track: "Zukunft",
-    punkte: 0,
+    number: 2,
+    track: "Normal",
+    punkte: 21,
     }
     let player3 = {
     number: 0,
