@@ -160,17 +160,14 @@ table {
     color: #FFD700;
 }
 #image {
-    animation: logo 2s;
+   animation: logo 4s;
   }
   
-  @keyframes logo {
-    10% {
-      transform: scale(0.0);
-      opacity: 0;
-    } 
-    100% {
-      transform: scale(1);
-      opacity: 1;	
+  @keyframes logo { 
+    100%{
+      
+      transform: rotateX(360deg);
+    }
     }
   }
 #Geschichte{
