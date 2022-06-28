@@ -2,42 +2,42 @@ function sortieren(a,b){
     return b - a;
 }
 let playerentry ={
-    number: 1,
+    number: 0,
     track: "Test",
-    punkte: 100,
+    punkte: 0,
 }
 let player1 = {
-    number: 2,
+    number: 0,
     track: "Normal",
-    punkte: 101,
+    punkte: 0,
     }
     let player2 = {
-    number: 3,
+    number: 0,
     track: "Normal",
     punkte: 200,
     }
     let player3 = {
-    number: 4,
+    number: 0,
     track: "Platine",
-    punkte: 10,
+    punkte: 0,
     }
     let player4 = {
-    number: 5,
+    number: 0,
     track: "Gegenwart",
-    punkte: 1,
+    punkte: 0,
     }
     let player5 = {
-    number: 6,
+    number: 0,
     track: "Platine",
-    punkte: 499,
+    punkte: 0,
     }
     let player6 = {
-    number: 7,
+    number: 0,
     track: "Zukunft",
-    punkte: 370,
+    punkte: 0,
     }
     let player7 = {
-    number: 8,
+    number: 0,
     track: "Urzeit",
     punkte: 40,
     }
