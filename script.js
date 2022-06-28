@@ -9,152 +9,152 @@ let playerentry ={
 let player1 = {
     number: 1,
     track: "Normal",
-    punkte: 100,
+    punkte: 12,
     }
     let player2 = {
-    number: 0,
+    number: 2,
     track: "Normal",
-    punkte: 0,
+    punkte: 13,
     }
     let player3 = {
-    number: 0,
+    number: 3,
     track: "Platine",
-    punkte: 0,
+    punkte: 41,
     }
     let player4 = {
-    number: 0,
+    number: 4,
     track: "Gegenwart",
-    punkte: 0,
+    punkte: 420,
     }
     let player5 = {
-    number: 0,
+    number: 5,
     track: "Platine",
-    punkte: 0,
+    punkte: 69,
     }
     let player6 = {
-    number: 0,
+    number: 6,
     track: "Zukunft",
-    punkte: 0,
+    punkte: 1312,
     }
     let player7 = {
-    number: 0,
+    number: 7,
     track: "Urzeit",
-    punkte: 0,
+    punkte: 404,
     }
     let player8 = {
-    number: 0,
+    number: 8,
     track: "Urzeit",
-    punkte: 0,
+    punkte: 2,
     }
     let player9 = {
-    number: 0,
+    number: 9,
     track: "Platine",
-    punkte: 0,
+    punkte: 187,
     }
     let player10 = {
-    number: 0,
+    number: 10,
     track: "Gegenwart",
-    punkte: 0,
+    punkte: 25,
     }
     let player11 = {
-    number: 0,
+    number: 11,
     track: "Urzeit",
-    punkte: 0,
+    punkte: 245,
     }
     let player12 = {
-    number: 0,
+    number: 12,
     track: "Platine",
-    punkte: 0,
+    punkte: 42,
     }
     let player13 = {
-    number: 0,
+    number: 13,
     track: "Gegenwart",
-    punkte: 0,
+    punkte: 156,
     }
     let player14 = {
-    number: 0,
+    number: 14,
     track: "Urzeit",
-    punkte: 0,
+    punkte: 7100,
     }
     let player15 = {
-    number: 0,
+    number: 15,
     track: "Platine",
     punkte: 0,
     }
     let player16 = {
-    number: 0,
+    number: 16,
     track: "Gegenwart",
-    punkte: 0,
+    punkte: 132,
     }
     let player17 = {
-    number: 0,
+    number: 17,
     track: "Urzeit",
-    punkte: 0,
+    punkte: 600,
     }
     let player18 = {
-    number: 0,
+    number: 18,
     track: "Platine",
-    punkte: 0,
+    punkte: 31,
     }
     let player19 = {
-    number: 0,
+    number: 19,
     track: "Gegenwart",
-    punkte: 0,
+    punkte: 188,
     }
     let player20 = {
-    number: 0,
+    number: 20,
     track: "Urzeit",
-    punkte: 0,
+    punkte: 327,
     }
     let player21 = {
-    number: 0,
+    number: 21,
     track: "Platine",
-    punkte: 0,
+    punkte: 13,
     }
     let player22 = {
-    number: 0,
+    number: 22,
     track: "Gegenwart",
-    punkte: 0,
+    punkte: 561,
     }
     let player23 = {
-    number: 0,
+    number: 23,
     track: "Urzeit",
-    punkte: 0,
+    punkte: 666,
     }
     let player24 = {
-    number: 0,
+    number: 24,
     track: "Platine",
-    punkte: 0,
+    punkte: 222,
     }
     let player25 = {
-    number: 0,
+    number: 25,
     track: "Gegenwart",
-    punkte: 0,
+    punkte: 2020,
     }
     let player26 = {
-    number: 0,
+    number: 26,
     track: "Urzeit",
-    punkte: 0,
+    punkte: 140,
     }
     let player27 = {
-    number: 0,
+    number: 27,
     track: "Platine",
-    punkte: 0,
+    punkte: 989,
     }
     let player28 = {
-    number: 0,
+    number: 28,
     track: "Gegenwart",
-    punkte: 0,
+    punkte: 123,
     }
     let player29 = {
-    number: 0,
+    number: 29,
     track: "Urzeit",
-    punkte: 0,
+    punkte: 354,
     }
     let player30 = {
-    number: 0,
+    number: 30,
     track: "Platine",
-    punkte: 0,
+    punkte: 151,
     }
 
 
