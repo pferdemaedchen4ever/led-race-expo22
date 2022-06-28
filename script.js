@@ -22,19 +22,19 @@ let player1 = {
     punkte: 10,
     }
     let player4 = {
-    number: 0,
+    number: 5,
     track: "Gegenwart",
     punkte: 0,
     }
     let player5 = {
-    number: 0,
+    number: 6,
     track: "Platine",
-    punkte: 0,
+    punkte: 499,
     }
     let player6 = {
-    number: 0,
+    number: 7,
     track: "Zukunft",
-    punkte: 0,
+    punkte: 370,
     }
     let player7 = {
     number: 0,
