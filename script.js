@@ -24,7 +24,7 @@ let player1 = {
     let player4 = {
     number: 5,
     track: "Gegenwart",
-    punkte: 0,
+    punkte: 1,
     }
     let player5 = {
     number: 6,
