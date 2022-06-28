@@ -42,9 +42,9 @@ let player1 = {
     punkte: 404,
     }
     let player8 = {
-    number: 8,
+    number: 40,
     track: "Urzeit",
-    punkte: 2,
+    punkte: 800,
     }
     let player9 = {
     number: 9,
