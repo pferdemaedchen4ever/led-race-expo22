@@ -7,14 +7,14 @@ let playerentry ={
     punkte: 0,
 }
 let player1 = {
-    number: 1,
+    number: 0,
     track: "Normal",
-    punkte: 20,
+    punkte: 0,
     }
     let player2 = {
     number: 0,
     track: "Normal",
-    punkte: 200,
+    punkte: 0,
     }
     let player3 = {
     number: 0,
@@ -39,7 +39,7 @@ let player1 = {
     let player7 = {
     number: 0,
     track: "Urzeit",
-    punkte: 40,
+    punkte: 0,
     }
     let player8 = {
     number: 0,
@@ -157,161 +157,7 @@ let player1 = {
     punkte: 0,
     }
 
-   let playerentry ={
-        number: 345,
-        track: "Test",
-        punkte: 21,
-    }
-    let player1 = {
-        number: 3,
-        track: "Urzeit",
-        punkte: 178,
-        }
-        let player2 = {
-        number: 15,
-        track: "Zukunft",
-        punkte: 985,
-        }
-        let player3 = {
-        number: 1,
-        track: "Platine",
-        punkte: 232,
-        }
-        let player4 = {
-        number: 57,
-        track: "Gegenwart",
-        punkte: 964,
-        }
-        let player5 = {
-        number: 81,
-        track: "Platine",
-        punkte: 454,
-        }
-        let player6 = {
-        number: 90,
-        track: "Zukunft",
-        punkte: 213,
-        }
-        let player7 = {
-        number: 65,
-        track: "Urzeit",
-        punkte: 103,
-        }
-        let player8 = {
-        number: 12,
-        track: "Urzeit",
-        punkte: 846,
-        }
-        let player9 = {
-        number: 33,
-        track: "Platine",
-        punkte: 394,
-        }
-        let player10 = {
-        number: 4,
-        track: "Gegenwart",
-        punkte: 23,
-        }
-        let player11 = {
-        number: 45,
-        track: "Urzeit",
-        punkte: 225,
-        }
-        let player12 = {
-        number: 31,
-        track: "Platine",
-        punkte: 206,
-        }
-        let player13 = {
-        number: 14,
-        track: "Gegenwart",
-        punkte: 723,
-        }
-        let player14 = {
-        number: 152,
-        track: "Urzeit",
-        punkte: 123,
-        }
-        let player15 = {
-        number: 233,
-        track: "Platine",
-        punkte: 546,
-        }
-        let player16 = {
-        number: 48,
-        track: "Gegenwart",
-        punkte: 303,
-        }
-        let player17 = {
-        number: 126,
-        track: "Urzeit",
-        punkte: 560,
-        }
-        let player18 = {
-        number: 87,
-        track: "Platine",
-        punkte: 246,
-        }
-        let player19 = {
-        number: 134,
-        track: "Gegenwart",
-        punkte: 533,
-        }
-        let player20 = {
-        number: 18,
-        track: "Urzeit",
-        punkte: 123,
-        }
-        let player21 = {
-        number: 353,
-        track: "Platine",
-        punkte: 866,
-        }
-        let player22 = {
-        number: 87,
-        track: "Gegenwart",
-        punkte: 323,
-        }
-        let player23 = {
-        number: 102,
-        track: "Urzeit",
-        punkte: 76,
-        }
-        let player24 = {
-        number: 38,
-        track: "Platine",
-        punkte: 240,
-        }
-        let player25 = {
-        number: 40,
-        track: "Gegenwart",
-        punkte: 143,
-        }
-        let player26 = {
-        number: 632,
-        track: "Urzeit",
-        punkte: 909,
-        }
-        let player27 = {
-        number: 339,
-        track: "Platine",
-        punkte: 124,
-        }
-        let player28 = {
-        number: 49,
-        track: "Gegenwart",
-        punkte: 763,
-        }
-        let player29 = {
-        number: 11,
-        track: "Urzeit",
-        punkte: 820,
-        }
-        let player30 = {
-        number: 337,
-        track: "Platine",
-        punkte: 647,
-        }
+
     var bestzeit = [player1.punkte, player2.punkte, player3.punkte, player4.punkte, player5.punkte, player6.punkte, player7.punkte, player8.punkte, player9.punkte, player10.punkte, player11.punkte, player12.punkte, player13.punkte, player14.punkte, player15.punkte, player16.punkte, player17.punkte, player18.punkte, player19.punkte, player20.punkte, player21.punkte, player22.punkte, player23.punkte, player24.punkte, player25.punkte, player26.punkte, player27.punkte, player28.punkte, player29.punkte, player30.punkte, playerentry.punkte];
     bestzeit.sort(sortieren);
 
