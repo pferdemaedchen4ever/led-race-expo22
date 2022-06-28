@@ -157,7 +157,7 @@ let player1 = {
     punkte: 0,
     }
 
-   /*let playerentry ={
+   let playerentry ={
         number: 345,
         track: "Test",
         punkte: 21,
@@ -311,7 +311,7 @@ let player1 = {
         number: 337,
         track: "Platine",
         punkte: 647,
-        }*/
+        }
     var bestzeit = [player1.punkte, player2.punkte, player3.punkte, player4.punkte, player5.punkte, player6.punkte, player7.punkte, player8.punkte, player9.punkte, player10.punkte, player11.punkte, player12.punkte, player13.punkte, player14.punkte, player15.punkte, player16.punkte, player17.punkte, player18.punkte, player19.punkte, player20.punkte, player21.punkte, player22.punkte, player23.punkte, player24.punkte, player25.punkte, player26.punkte, player27.punkte, player28.punkte, player29.punkte, player30.punkte, playerentry.punkte];
     bestzeit.sort(sortieren);
 
