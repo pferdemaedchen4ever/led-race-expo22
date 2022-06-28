@@ -1,3 +1,9 @@
+//Namen der Strecken
+//Platine
+//Gegenwart
+//Zukunft
+//Urzeit
+//Dragrace
 function sortieren(a,b){
     return b - a;
 }
