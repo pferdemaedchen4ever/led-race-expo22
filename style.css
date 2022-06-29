@@ -7,11 +7,18 @@ body{
 #top{
     text-align:center;
 }
+marquee{
+    color: rgb(246, 27, 253);
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 20px;
+}
 #image img{
     max-width: 35%;
     max-height: 20%;
     border: none;
-    margin-left: 250px;
+    margin-left: 410px;
 }
 #logo{
     color: whitesmoke;
@@ -29,13 +36,14 @@ body{
 }
 #menu{
     margin-top: 20px;
-    margin-left: 20px;
+    margin-left: 460px;
     
 }
 #menu a{
     color: whitesmoke;
     font-size: 30px;
     padding: 10px;
+    
 }
 #menu a:hover{
     color: red;
@@ -68,6 +76,7 @@ table {
     border-collapse: collapse;
     margin: 1em;
     margin-top: 50px;
+    margin-left: 460px;
   }
   th {
     border-bottom: 1px solid #364043;
@@ -98,6 +107,7 @@ table {
     text-align: center;
     margin-top: 50px;
     text-decoration: underline;
+
 }
 #Geschichte2{
   font-family: 'Ubuntu', sans-serif;
@@ -107,12 +117,19 @@ table {
     margin-top: 40px;
   
 }
+#disclaimer{
+    font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+    font-size: 16px;
+    text-align: left;
+    margin-top: 35px;
+}
 #Signatur1{
     font-family: 'Ubuntu', sans-serif;
     color: whitesmoke;
     font-size: 22px;
     text-align: left;
-    margin-top: 50px;
+    margin-top: 60px;
 } 
 #Signatur2{
     font-family: 'Ubuntu', sans-serif;
@@ -181,6 +198,7 @@ table {
     color: whitesmoke;
     font-size: 30px;
     padding: 50px;
+    margin-left: 460px;
 }
 #Geschichte a:hover{
     color: red;
