@@ -29,7 +29,7 @@ body{
 }
 #menu{
     margin-top: 20px;
-    margin-left: 460px;
+    margin-left: 60px;
     
 }
 #menu a{
@@ -69,7 +69,7 @@ table {
     border-collapse: collapse;
     margin: 1em;
     margin-top: 50px;
-    margin-left: 460px;
+    margin-left: 60px;
   }
   th {
     border-bottom: 1px solid #364043;
@@ -110,20 +110,12 @@ table {
     margin-top: 40px;
   
 }
-#disclaimer{
-    font-family: 'Ubuntu', sans-serif;
-    color: whitesmoke;
-    font-size: 16px;
-    text-align: left;
-    margin-top: 35px;
-    margin-left: 10px;
-}
 #Signatur1{
     font-family: 'Ubuntu', sans-serif;
     color: whitesmoke;
     font-size: 22px;
     text-align: left;
-    margin-top: 60px;
+    margin-top: 50px;
 } 
 #Signatur2{
     font-family: 'Ubuntu', sans-serif;
@@ -192,7 +184,7 @@ table {
     color: whitesmoke;
     font-size: 30px;
     padding: 50px;
-    margin-left: 460px;
+    margin-left: 60px;
 }
 #Geschichte a:hover{
     color: red;
