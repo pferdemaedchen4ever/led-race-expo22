@@ -19,13 +19,14 @@ body{
     font-size: 16px;
     margin-left: 20px;
     margin-top:30px;
-    margin-right:200px;
+    margin-right:420px;
 }
 #logo{
     color: whitesmoke;
     font-size: 40px;
     margin-top: 20px;
     margin-left: 20px;
+    margin-bottom:60px;
     font-weight: bolder;
 }
 #Sub{
@@ -37,13 +38,14 @@ body{
 }
 #menu{
     margin-top: 20px;
-    margin-left: 60px;
+    margin-left: 460px;
+    margin-bottom:25px;
     
 }
 #menu a{
     color: whitesmoke;
     font-size: 30px;
-    padding: 10px;
+    padding: 20px;
     
 }
 #menu a:hover{
@@ -77,7 +79,7 @@ table {
     border-collapse: collapse;
     margin: 1em;
     margin-top: 50px;
-    margin-left: 60px;
+    margin-left: 460px;
   }
   th {
     border-bottom: 1px solid #364043;
@@ -101,23 +103,6 @@ table {
   tbody tr:hover {
     background: #014055;
   }
-#Geschichte1{
-  font-family: 'Ubuntu', sans-serif;
-    color: whitesmoke;
-    font-size: 30px;
-    text-align: center;
-    margin-top: 50px;
-    text-decoration: underline;
-
-}
-#Geschichte2{
-  font-family: 'Ubuntu', sans-serif;
-    color: whitesmoke;
-    font-size: 25px;
-    text-align: left;
-    margin-top: 40px;
-  
-}
 #Signatur1{
     font-family: 'Ubuntu', sans-serif;
     color: whitesmoke;
@@ -191,8 +176,8 @@ table {
 #Geschichte a{
     color: whitesmoke;
     font-size: 30px;
-    padding: 50px;
-    margin-left: 60px;
+    padding: 20px;
+    margin-left: 500px;
 }
 #Geschichte a:hover{
     color: red;
