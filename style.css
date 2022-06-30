@@ -38,7 +38,7 @@ body{
 }
 #menu{
     margin-top: 20px;
-    margin-left: 460px;
+    margin-left: 60px;
     margin-bottom:25px;
     
 }
@@ -79,7 +79,7 @@ table {
     border-collapse: collapse;
     margin: 1em;
     margin-top: 50px;
-    margin-left: 460px;
+    margin-left: 60px;
   }
   th {
     border-bottom: 1px solid #364043;
@@ -177,7 +177,7 @@ table {
     color: whitesmoke;
     font-size: 30px;
     padding: 20px;
-    margin-left: 500px;
+    margin-left: 50px;
 }
 #Geschichte a:hover{
     color: red;
