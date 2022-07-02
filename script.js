@@ -58,14 +58,14 @@ let player1 = {
     punkte: 457,
     }
     let player10 = {
-    number: 0,
+    number: 1714,
     track: "Gegenwart",
     punkte: 0,
     }
     let player11 = {
     number: 0,
-    track: "Urzeit",
-    punkte: 0,
+    track: "Zukunft",
+    punkte: 502,
     }
     let player12 = {
     number: 0,
