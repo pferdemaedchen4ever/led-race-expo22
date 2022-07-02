@@ -8,9 +8,9 @@ function sortieren(a,b){
     return b - a;
 }
 let playerentry ={
-    number: 0,
-    track: "Test",
-    punkte: 0,
+    number: 1,
+    track: "Urzeit",
+    punkte: 250,
 }
 let player1 = {
     number: 0,
