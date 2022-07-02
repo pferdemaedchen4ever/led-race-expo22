@@ -118,9 +118,9 @@ let player1 = {
     punkte: 428,
     }
     let player22 = {
-    number: 2385,
-    track: "Gegenwart",
-    punkte: 299,
+    number: 2462,
+    track: "Zukunft",
+    punkte: 348,
     }
     let player23 = {
     number: 1786,
