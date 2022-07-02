@@ -43,7 +43,7 @@ let player1 = {
     punkte: 620,
     }
     let player7 = {
-    number: 2361,
+    number: 2387,
     track: "Gegenwart",
     punkte: 628,
     }
@@ -113,8 +113,8 @@ let player1 = {
     punkte: 607,
     }
     let player21 = {
-    number: 2301,
-    track: "Zukunft",
+    number: 2387,
+    track: "Gegenwart",
     punkte: 622,
     }
     let player22 = {
