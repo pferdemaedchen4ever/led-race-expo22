@@ -88,7 +88,7 @@ let player1 = {
     punkte: 597,
     }
     let player16 = {
-    number: 2467,
+    number: 2312,
     track: "Platine",
     punkte: 637,
     }
