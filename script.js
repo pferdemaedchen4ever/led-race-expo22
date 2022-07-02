@@ -80,7 +80,7 @@ let player1 = {
     let player14 = {
     number: 1775,
     track: "Urzeit",
-    punkte: 603,
+    punkte: 602,
     }
     let player15 = {
     number: 2338,
