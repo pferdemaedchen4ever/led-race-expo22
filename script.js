@@ -38,9 +38,9 @@ let player1 = {
     punkte: 624,
     }
     let player6 = {
-    number: 2101,
-    track: "Zukunft",
-    punkte: 256,
+    number: 2474,
+    track: "Platine",
+    punkte: 620,
     }
     let player7 = {
     number: 1476,
