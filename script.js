@@ -8,14 +8,14 @@ function sortieren(a,b){
     return b - a;
 }
 let playerentry ={
-    number: 1,
-    track: "Urzeit",
-    punkte: 250,
-}
-let player1 = {
     number: 0,
     track: "Normal",
     punkte: 0,
+}
+let player1 = {
+    number: 1648,
+    track: "Platine",
+    punkte: 474,
     }
     let player2 = {
     number: 0,
