@@ -30,7 +30,7 @@ let player1 = {
     let player4 = {
     number: 2088,
     track: "Gegenwart",
-    punkte: 362,
+    punkte: 439,
     }
     let player5 = {
     number: 1906,
