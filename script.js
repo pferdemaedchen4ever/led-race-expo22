@@ -28,24 +28,24 @@ let player1 = {
     punkte: 517,
     }
     let player4 = {
-    number: 0,
-    track: "Gegenwart",
-    punkte: 0,
+    number: 1809,
+    track: "Zukunft",
+    punkte: 354,
     }
     let player5 = {
-    number: 0,
-    track: "Platine",
-    punkte: 0,
+    number: 1906,
+    track: "Urzeit",
+    punkte: 624,
     }
     let player6 = {
-    number: 0,
+    number: 2101,
     track: "Zukunft",
-    punkte: 0,
+    punkte: 256,
     }
     let player7 = {
-    number: 0,
+    number: 1476,
     track: "Urzeit",
-    punkte: 0,
+    punkte: 310,
     }
     let player8 = {
     number: 0,
