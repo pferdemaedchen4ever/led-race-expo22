@@ -15,7 +15,7 @@ let playerentry ={
 let player1 = {
     number: 1648,
     track: "Platine",
-    punkte: 474,
+    punkte: 491,
     }
     let player2 = {
     number: 0,
