@@ -159,7 +159,7 @@ let player1 = {
     }
     let player30 = {
     number: 1472,
-    track: "Urzeit",
+    track: "Platine",
     punkte: 443,
     }
 
