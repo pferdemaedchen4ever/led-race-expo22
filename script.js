@@ -35,7 +35,7 @@ let player1 = {
     let player5 = {
     number: 1906,
     track: "Urzeit",
-    punkte: 624,
+    punkte: 625,
     }
     let player6 = {
     number: 2474,
@@ -45,7 +45,7 @@ let player1 = {
     let player7 = {
     number: 2361,
     track: "Gegenwart",
-    punkte: 620,
+    punkte: 628,
     }
     let player8 = {
     number: 1482,
@@ -55,7 +55,7 @@ let player1 = {
     let player9 = {
     number: 2341,
     track: "Platine",
-    punkte: 623,
+    punkte: 624,
     }
     let player10 = {
     number: 1894,
@@ -115,12 +115,12 @@ let player1 = {
     let player21 = {
     number: 2301,
     track: "Zukunft",
-    punkte: 621,
+    punkte: 622,
     }
     let player22 = {
     number: 2325,
     track: "Platine",
-    punkte: 628,
+    punkte: 629,
     }
     let player23 = {
     number: 2064,
@@ -130,7 +130,7 @@ let player1 = {
     let player24 = {
     number: 1789,
     track: "Platine",
-    punkte: 629,
+    punkte: 630,
     }
     let player25 = {
     number: 1916,
@@ -155,7 +155,7 @@ let player1 = {
     let player29 = {
     number: 2443,
     track: "Zukunft",
-    punkte: 622,
+    punkte: 623,
     }
     let player30 = {
     number: 2357,
