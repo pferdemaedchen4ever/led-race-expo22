@@ -45,152 +45,152 @@ let playerentry ={
 }
 let player1 = {
     number: 2423,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 627,
     }
     let player2 = {
     number: 2449,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 656,
     }
     let player3 = {
     number: 2313,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 616,
     }
     let player4 = {
     number: 2457,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 615,
     }
     let player5 = {
     number: 1906,
-    track: "Urzeit",
+    track: "02.07.2022",
     punkte: 625,
     }
     let player6 = {
     number: 2474,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 620,
     }
     let player7 = {
     number: 2387,
-    track: "Gegenwart",
+    track: "02.07.2022",
     punkte: 628,
     }
     let player8 = {
     number: 1482,
-    track: "Urzeit",
+    track: "02.07.2022",
     punkte: 617,
     }
     let player9 = {
     number: 2341,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 624,
     }
     let player10 = {
     number: 2300,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 644,
     }
     let player11 = {
     number: 2448,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 635,
     }
     let player12 = {
     number: 2314,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 638,
     }
     let player13 = {
     number: 2335,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 637,
     }
     let player14 = {
     number: 2436,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 643,
     }
     let player15 = {
     number: 2448,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 631,
     }
     let player16 = {
     number: 2312,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 636,
     }
     let player17 = {
     number: 2424,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 650,
     }
     let player18 = {
     number: 2460,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 633,
     }
     let player19 = {
     number: 2434,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 626,
     }
     let player20 = {
     number: 2456,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 650,
     }
     let player21 = {
     number: 2387,
-    track: "Gegenwart",
+    track: "02.07.2022",
     punkte: 622,
     }
     let player22 = {
     number: 2325,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 629,
     }
     let player23 = {
     number: 2446,
-    track: "Platine",
+    track: "02.07.2022",
     punkte:618,
     }
     let player24 = {
     number: 1789,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 630,
     }
     let player25 = {
     number: 2329,
-    track: "Urzeit",
+    track: "02.07.2022",
     punkte: 645,
     }
     let player26 = {
     number: 2347,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 635,
     }
     let player27 = {
     number: 2437,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 646,
     }
     let player28 = {
     number: 2324,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 661,
     }
     let player29 = {
     number: 2443,
-    track: "Zukunft",
+    track: "02.07.2022",
     punkte: 623,
     }
     let player30 = {
     number: 2357,
-    track: "Platine",
+    track: "02.07.2022",
     punkte: 657,
     }
 
