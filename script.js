@@ -130,7 +130,7 @@ let player1 = {
     let player19 = {
     number: 2488,
     track: "03.07.2022",
-    punkte: 631,
+    punkte: 646,
     }
     let player20 = {
     number: 2456,
