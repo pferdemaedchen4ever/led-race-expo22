@@ -34,7 +34,7 @@ function sortieren(a,b){
 }
 let playerentry ={
     number: 0,
-    track: "Normal",
+    track: "02.07.2022",
     punkte: 0,
 }
 let player1 = {
@@ -48,14 +48,14 @@ let player1 = {
     punkte: 656,
     }
     let player3 = {
-    number: 2313,
-    track: "02.07.2022",
-    punkte: 616,
+    number: 2435,
+    track: "03.07.2022",
+    punkte: 636,
     }
     let player4 = {
-    number: 2457,
-    track: "02.07.2022",
-    punkte: 615,
+    number: 2447,
+    track: "03.07.2022",
+    punkte: 635,
     }
     let player5 = {
     number: 1906,
@@ -73,9 +73,9 @@ let player1 = {
     punkte: 628,
     }
     let player8 = {
-    number: 1482,
-    track: "02.07.2022",
-    punkte: 617,
+    number: 1773,
+    track: "03.07.2022",
+    punkte: 631,
     }
     let player9 = {
     number: 2341,
@@ -148,9 +148,9 @@ let player1 = {
     punkte: 629,
     }
     let player23 = {
-    number: 2446,
-    track: "02.07.2022",
-    punkte:618,
+    number: 1785,
+    track: "03.07.2022",
+    punkte:632,
     }
     let player24 = {
     number: 1789,
