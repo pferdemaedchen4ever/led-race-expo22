@@ -73,9 +73,9 @@ let player1 = {
     punkte: 637,
     }
     let player8 = {
-    number: 1773,
+    number: 2475,
     track: "03.07.2022",
-    punkte: 631,
+    punkte: 635,
     }
     let player9 = {
     number: 1796,
@@ -88,9 +88,9 @@ let player1 = {
     punkte: 644,
     }
     let player11 = {
-    number: 2448,
-    track: "02.07.2022",
-    punkte: 635,
+    number: 2499,
+    track: "03.07.2022",
+    punkte: 639,
     }
     let player12 = {
     number: 2314,
@@ -108,9 +108,9 @@ let player1 = {
     punkte: 643,
     }
     let player15 = {
-    number: 2448,
-    track: "02.07.2022",
-    punkte: 631,
+    number: 2487,
+    track: "03.07.2022",
+    punkte: 642,
     }
     let player16 = {
     number: 2312,
@@ -123,9 +123,9 @@ let player1 = {
     punkte: 650,
     }
     let player18 = {
-    number: 2460,
+    number: 2498,
     track: "02.07.2022",
-    punkte: 633,
+    punkte: 643,
     }
     let player19 = {
     number: 2488,
@@ -140,22 +140,22 @@ let player1 = {
     let player21 = {
     number: 1784,
     track: "03.07.2022",
-    punkte: 634,
+    punkte: 661,
     }
     let player22 = {
-    number: 2325,
-    track: "02.07.2022",
-    punkte: 629,
+    number: 2476,
+    track: "03.07.2022",
+    punkte: 636,
     }
     let player23 = {
-    number: 1785,
+    number: 2463,
     track: "03.07.2022",
-    punkte:632,
+    punkte:640,
     }
     let player24 = {
-    number: 1789,
-    track: "02.07.2022",
-    punkte: 630,
+    number: 2464,
+    track: "03.07.2022",
+    punkte: 636,
     }
     let player25 = {
     number: 2329,
