@@ -29,12 +29,6 @@ var b27=0;
 var b28=0;
 var b29=0;
 var b30=0;
-//Namen der Strecken
-//Platine
-//Gegenwart
-//Zukunft
-//Urzeit
-//Dragrace
 function sortieren(a,b){
     return b - a;
 }
