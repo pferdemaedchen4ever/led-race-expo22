@@ -48,9 +48,9 @@ let player1 = {
     punkte: 656,
     }
     let player3 = {
-    number: 2442,
-    track: "03.07.2022",
-    punkte: 653,
+    number: 1560,
+    track: "08.07.2022",
+    punkte: 655,
     }
     let player4 = {
     number: 1695,
