@@ -38,9 +38,9 @@ let playerentry ={
     punkte: 0,
 }
 let player1 = {
-    number: 2486,
-    track: "03.07.2022",
-    punkte: 650,
+    number: 1549,
+    track: "08.07.2022",
+    punkte: 654,
     }
     let player2 = {
     number: 2449,
@@ -103,9 +103,9 @@ let player1 = {
     punkte: 657,
     }
     let player14 = {
-    number: 1731,
-    track: "05.07.2022",
-    punkte: 652,
+    number: 1561,
+    track: "08.07.2022",
+    punkte: 656,
     }
     let player15 = {
     number: 2389,
@@ -128,9 +128,9 @@ let player1 = {
     punkte: 667,
     }
     let player19 = {
-    number: 1718,
-    track: "05.07.2022",
-    punkte: 653,
+    number: 1525,
+    track: "08.07.2022",
+    punkte: 666,
     }
     let player20 = {
     number: 1660,
@@ -158,9 +158,9 @@ let player1 = {
     punkte: 655,
     }
     let player25 = {
-    number: 1743,
-    track: "05.07.2022",
-    punkte: 653,
+    number: 1537,
+    track: "08.07.2022",
+    punkte: 657,
     }
     let player26 = {
     number: 2429,
