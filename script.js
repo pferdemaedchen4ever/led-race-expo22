@@ -39,7 +39,7 @@ let playerentry ={
 }
 let player1 = {
     number: 1571,
-    track: "08.07.2022",
+    track: "09.07.2022",
     punkte: 658,
     }
     let player2 = {
